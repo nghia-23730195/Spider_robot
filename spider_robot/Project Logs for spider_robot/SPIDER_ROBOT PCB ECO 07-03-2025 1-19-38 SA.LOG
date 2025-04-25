@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=D9 Pin=C13-2
+Removed Pin From Net: NetName=D13 Pin=C13-3
+Removed Pin From Net: NetName=D12 Pin=C13-4
+Removed Pin From Net: NetName=D11 Pin=C13-6
+Removed Pin From Net: NetName=D8 Pin=C13-7
+Removed Pin From Net: NetName=3V3 Pin=C13-8
+Added Pin To Net: NetName=3V3 Pin=C13-1
+Added Pin To Net: NetName=D8 Pin=C13-2
+Added Pin To Net: NetName=D11 Pin=C13-3
+Added Pin To Net: NetName=D12 Pin=C13-5
+Added Pin To Net: NetName=D13 Pin=C13-6
+Added Pin To Net: NetName=D9 Pin=C13-7
+Added Pin To Net: NetName=GND Pin=C13-8
+Added Room: Name=SPIDER_ROBOT

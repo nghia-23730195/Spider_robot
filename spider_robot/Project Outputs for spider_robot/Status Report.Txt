@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [spider_robot.PrjPcb]
+   Generated File[SPIDER_ROBOT_1.TXT]
+   Generated File[SPIDER_ROBOT_1.LDP]
+   Generated File[SPIDER_ROBOT_1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:25:02 SA On 07/03/2025

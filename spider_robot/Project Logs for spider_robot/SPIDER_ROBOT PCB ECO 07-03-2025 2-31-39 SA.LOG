@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VIN Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=TX Pin=C14-3
+Removed Pin From Net: NetName=RX Pin=C14-4
+Removed Member From Class: ClassName=SPIDER_ROBOT Member=C14
+Added Component: Designator=U1(ESP32_CAM)
+Add component (AddParameter): Name = "IC"; Value = "ESP8266-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Ai-thinker"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=RX Pin=U1-10
+Added Pin To Net: NetName=TX Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Member To Class: ClassName=SPIDER_ROBOT Member=Component U1 ESP CAM
