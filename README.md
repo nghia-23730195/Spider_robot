@@ -1,6 +1,6 @@
 # 🕷️ Robot Nhện Giám Sát Môi Trường
 
-![Spider Robot](./5b1de07f-a06e-40f5-b08d-454f1de87270.png)
+![Spider Robot][(./5b1de07f-a06e-40f5-b08d-454f1de87270.png](https://imgur.com/a/q4uGww6))
 
 ## 📌 Giới thiệu
 
